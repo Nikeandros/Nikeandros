@@ -2,7 +2,7 @@
 Front End Developer Jr 💻 | React ⚛️ | JavaScript 🚀 | Tailwind 🎨 | Next.js ⌨️
 
 
-👨‍💻 Ciao! Sono Ivan, un Front End Developer che trova la propria realizzazione nella programmazione. Creo esperienze digitali che affascinano e coinvolgono gli utenti. 🌟
+👨‍💻 Ciao! Sono Ivan, un Front End Developer che trova la propria realizzazione nella programmazione. Creo esperienze digitali che  coinvolgono gli utenti. 🌟
 
 Fuori dal lavoro, mi dedico alla pittura 🎨, ai giochi di ruolo dal vivo (Larp) 🏰, alle rievocazioni storiche e ai videogames 🎮. Sempre alla ricerca di nuove sfide e opportunità di crescita.
 
