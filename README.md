@@ -28,6 +28,4 @@ Outside of work, I indulge in painting 🎨, live-action role-playing (LARP) �
 
 Connect with me if you share my passions or want to discuss job opportunities! 😊
 
-Nikeandros/Nikeandros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
